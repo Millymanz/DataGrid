@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeRawDataService", "RealTimeRawDataService\RealTimeRawDataService.csproj", "{8EEBAB94-9B42-4FD8-9953-9C24CCEA817D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeRawDataHost", "RealTimeRawDataHost\RealTimeRawDataHost.csproj", "{1F7CA4D2-F4A5-49BA-814F-13FDA904E1D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{32BBAF20-8460-4A45-916B-347DF9A8E511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeRawDataWindowsService", "RealTimeRawDataWindowsService\RealTimeRawDataWindowsService.csproj", "{F1070F9B-C265-46D9-94D3-5BFF9B4324BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEBAB94-9B42-4FD8-9953-9C24CCEA817D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEBAB94-9B42-4FD8-9953-9C24CCEA817D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEBAB94-9B42-4FD8-9953-9C24CCEA817D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEBAB94-9B42-4FD8-9953-9C24CCEA817D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7CA4D2-F4A5-49BA-814F-13FDA904E1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7CA4D2-F4A5-49BA-814F-13FDA904E1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7CA4D2-F4A5-49BA-814F-13FDA904E1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7CA4D2-F4A5-49BA-814F-13FDA904E1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BBAF20-8460-4A45-916B-347DF9A8E511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BBAF20-8460-4A45-916B-347DF9A8E511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BBAF20-8460-4A45-916B-347DF9A8E511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BBAF20-8460-4A45-916B-347DF9A8E511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1070F9B-C265-46D9-94D3-5BFF9B4324BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1070F9B-C265-46D9-94D3-5BFF9B4324BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1070F9B-C265-46D9-94D3-5BFF9B4324BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1070F9B-C265-46D9-94D3-5BFF9B4324BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

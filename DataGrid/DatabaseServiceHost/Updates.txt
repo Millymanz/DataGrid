@@ -1,0 +1,1 @@
+31/05/2012+ Implemented further connection checks on the applications and live/test mode (sql express or live 2012)
